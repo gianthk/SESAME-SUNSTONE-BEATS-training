@@ -3,7 +3,7 @@
 
 [![DOI](https://zenodo.org/badge/962678314.svg)](https://doi.org/10.5281/zenodo.15189409)
 
-| Speaker: Dr.-Ing. Gianluca Iori|
+| Speaker: [Dr. Gianluca Iori](https://www.psi.ch/en/x-ray-tomography-group/people/gianluca-iori)|
 | :--- |
 | X-ray Tomography group - Paul Scherrer Institut PSI, Switzerland  |
 | ID10-BEATS visiting scientist, Synchrotron-light for Experimental Science and Applications in the Middle East - SESAME, Jordan |
