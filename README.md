@@ -1,19 +1,18 @@
-
-# 16.04.2025 - SESAME SUNSTONE Training Programme - First Edition
-## Make the best of your Synchrotron Tomography Experiment - 3D Image Analysis Crash Course
+# 30.06.2026 - SESAME SUNSTONE Training Programme - 2026 edition
+## Make the best of your Synchrotron Tomography Experiment - 3D Image Analysis Tutorial
 
 [![DOI](https://zenodo.org/badge/962678314.svg)](https://doi.org/10.5281/zenodo.15189409)
 
 | Speaker |
 | :--- |
 | **Dr.-Ing. Gianluca Iori** |
-| Research Assistant in Advanced X-ray Imaging, Institute for Biomedical Engineering, ETH Zurich, Switzerland |
+| X-ray Tomography group - Paul Scherrer Institut PSI, Switzerland  |
 | ID10-BEATS visiting scientist, Synchrotron-light for Experimental Science and Applications in the Middle East - SESAME, Jordan |
 
 ## Contents
 1. [Introduction to 3D image processing software](#part-1-introduction-to-3d-image-processing-software)
 2. [ImageJ basic operations](#part-2-imagej-basic-operations)
-3. [3D image processing with Dragonfly](#part-3-image-processing-with-dragonfly)
+3. [3D image processing with 3Dslicer](#part-3-image-processing-with-3d-slicer)
 4. [Image segmentation](#part-4-image-segmentation)
 5. [Pore analysis](#part-5-pore-analysis)
 
@@ -22,9 +21,9 @@
 | Software ||
 | :--- | --- |
 | [Fiji (is just ImageJ)](https://fiji.sc/) | Image processing package. |
+| [3DSlicer](https://www.slicer.org/) | Open source software platform for medical image informatics, image processing, and three-dimensional visualization. |
 | [ORS Dragonfly](https://dragonfly.comet.tech/) | 3D image visualization and analysis software. |
 | [ParaView](https://www.paraview.org/) | An open-source, multi-platform data analysis and visualization application. |
-| [3DSlicer](https://www.slicer.org/) | Open source software platform for medical image informatics, image processing, and three-dimensional visualization. |
 | [Silx](https://www.silx.org/doc/silx/latest/install.html) | Inspect your beamtime RAW data (sinograms). |
 | [Biomedisa](https://biomedisa.info/) | Open-source application for segmenting large 3D image data. |
 
@@ -69,7 +68,7 @@ Contents:
 - Save! (File/Save As/Image Sequence)
 
 ---
-### Part 3: Image processing with Dragonfly
+### Part 3: Image processing with 3D Slicer
 #### Display controls
 - Window leveling controls
 - 2D views orientation
@@ -77,11 +76,6 @@ Contents:
 - Slab thickness, min and max projection
 - Export screenshots
 - Scale and colorbar
-
-#### Stitching of 3D images
-- Load 2 image stacks
-- Move dataset
-- 3D stitch
 
 ---
 ### Part 4: Image segmentation
@@ -92,8 +86,7 @@ Contents:
 - Image/Adjust/Threshold
     - Otsu, Auto -> Apply
     - Image/Overlay/Add Image
-- Dragnfly Image plugins -> K-means segmentation
-- Dragonfly tutorial: deep learning segmentation
+- 3D Slicer segmenter tool
 - [Biomedisa](https://biomedisa.info/)
 - [Segment anything](https://segment-anything.com/)
 
@@ -123,7 +116,7 @@ Contents:
 - Voids mask
 - Calculate porosity
 
-#### Pore size analysis
+#### Pore size analysis (optional)
 - Connectivity analysis and multi-ROI
 - Label pores by size
 - Remove pores below 4 pixels
@@ -133,9 +126,3 @@ Contents:
 - 3D view hiding part of the sample
 - Largest interconnected region
 - Thickness map
-
-
-
-
-
-    
