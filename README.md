@@ -33,11 +33,12 @@ For a list of works on the application of synchrotron Computed Tomography in cul
 ---
 ## Open dataset
 ### Synchrotron X-ray Computed Tomography images from the ID10-BEATS beamline of SESAME
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15182529.svg)](https://doi.org/10.5281/zenodo.15182529)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15182529.svg)](https://doi.org/10.5281/zenodo.20795982)
 
 Contents:
 - `wasp_recon_small.zip` - SXCT reconstruction of scan of a wasp performed at beamline ID10-BEATS of SESAME
 - `figurine_e1_macro-20241001T114706_crop_align.zip` - SXCT reconstruction of scan of historical terracotta at beamline ID10-BEATS of SESAME
+- `egyptian_blue-20240229T13525_phase_alpha_0.001_crop_8bit.zip` - SXCT reconstruction of scan of historical egyptian blue pigment at beamline ID10-BEATS of SESAME
 
 ---
 ### Part 1: Introduction to 3D image processing software
