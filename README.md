@@ -15,10 +15,12 @@
 3. [ImageJ - Input/Output and basic operations](#part-3-imagej---inputoutput-and-basic-operations)
    - Load dataset: `figurine_e1_macro-20241001T114706_crop_align_TIFF`
 4. [Porosity analysis 1: Terracotta](#part-4-porosity-analysis-1-terracotta)
-5. [Handle large datasets](#part-5-handle-large-datasets)
+5. Break
+6. Quiz time
+7. [Handle large datasets](#part-5-handle-large-datasets)
    - Load dataset: `egyptian_blue-20240229T13525_phase_alpha_0.001_crop_8bit`
-6. [Exercise 2: Pore analysis](#part-6-exercise-2-pore-analysis)
-
+8. [Exercise 2: Pore analysis](#part-6-exercise-2-pore-analysis)
+9. Quiz and question time
 ---
 ## Resources
 | Software ||
